@@ -46,7 +46,3 @@ Hospitals can retrieve the list of verified patients by calling the `get_verifie
 - Implementing additional error handling for cases such as non-existent patients or unauthorized verification attempts.
 - Adding support for multiple hospitals managing a shared patient database.
 - Enhancing security features to prevent unauthorized data access.
-
----
-
-Feel free to customize the contract address and other sections as needed.
