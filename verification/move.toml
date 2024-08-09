@@ -1,0 +1,9 @@
+[package]
+name = "verification"
+version = "1.0.0"
+
+[addresses]
+verification = "0x3cb37cb3309dc6bbd399dbf2169c82833f105c961fd8fd7120c72c45f0e2fe26"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "devnet" }
