@@ -1,6 +1,5 @@
 # PatientHospitalVerification
 
-**Contract Address:** [Insert Contract Address Here]
 
 ## Project Title
 Patient-Hospital Verification Smart Contract on Aptos Blockchain
